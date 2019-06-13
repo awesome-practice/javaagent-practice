@@ -1,0 +1,4 @@
+= test
+
+[source]
+$ java -javaagent:javaagent-practice-1.0-SNAPSHOT.jar  -jar javaagent-practice-1.0-SNAPSHOT.jar
